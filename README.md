@@ -13,3 +13,7 @@
 ![popular](./assets/popular.png)
 
 ## Live preview
+
+Deployed using [Netlify](https://www.netlify.com))
+
+Live preview: [link](https://sushippuccin.netlify.app/)
